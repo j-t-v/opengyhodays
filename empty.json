@@ -33,18 +33,6 @@
          "y":0
         }, 
         {
-         "id":15,
-         "image":"floortileset.png",
-         "name":"image",
-         "offsetx":205.444466184047,
-         "offsety":94.0820452618535,
-         "opacity":1,
-         "type":"imagelayer",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
          "color":"#790305",
          "draworder":"topdown",
          "id":3,
