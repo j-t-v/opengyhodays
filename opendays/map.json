@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":32,
@@ -27,7 +28,7 @@
                  "value":"https:\/\/www.gyho.de\/index.php\/service\/mensa-cafeteria"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -45,7 +46,7 @@
                  "value":"https:\/\/gyho.de\/index.php\/mint"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -63,7 +64,7 @@
                  "value":"ClassroomTimmy "
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -81,7 +82,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -148,6 +149,12 @@
  "nextlayerid":40,
  "nextobjectid":3,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"openWebsite",
+         "type":"string",
+         "value":"https:\/\/www.gyho.de\/index.php\/service\/mensa-cafeteria"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.1",
  "tileheight":32,
