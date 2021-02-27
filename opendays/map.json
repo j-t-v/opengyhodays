@@ -77,9 +77,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsi sport",
+                 "name":" jitsiRoom",
                  "type":"string",
-                 "value":"JTV-SpPl-sport"
+                 "value":"JTV-SpPl1-sport"
                 }],
          "type":"tilelayer",
          "visible":true,
