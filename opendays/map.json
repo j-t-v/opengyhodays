@@ -169,7 +169,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/whiteboard.microsoft.com\/me\/whiteboards\/"
+                 "value":"https:\/\/whiteboard.microsoft.com\/me\/whiteboards"
                 }],
          "type":"tilelayer",
          "visible":true,
