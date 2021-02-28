@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.englisch-hilfen.de\/inhalt_grammar.htm"
+                 "value":"https:\/\/gyho.de\/index.php\/wissenswertes"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,7 +61,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.kapiert.de\/mathematik\/"
+                 "value":"https:\/\/gyho.de\/index.php\/neuigkeiten"
                 }],
          "type":"tilelayer",
          "visible":true,
