@@ -2156,6 +2156,19 @@
          "tilecount":814,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":7625,
+         "image":"wachen.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"wachen",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
