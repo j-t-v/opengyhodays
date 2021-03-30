@@ -2169,6 +2169,20 @@
          "tilecount":576,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":22,
+         "firstgid":8201,
+         "image":"dungeon2.jpg",
+         "imageheight":480,
+         "imagewidth":720,
+         "margin":0,
+         "name":"dungeon2",
+         "spacing":0,
+         "tilecount":330,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#353537"
         }],
  "tilewidth":32,
  "type":"map",
