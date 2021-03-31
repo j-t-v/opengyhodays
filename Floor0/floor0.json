@@ -2158,6 +2158,20 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#353537"
+        }, 
+        {
+         "columns":24,
+         "firstgid":7955,
+         "image":"wachen.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"wachen",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#353537"
         }],
  "tilewidth":32,
  "type":"map",
